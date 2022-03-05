@@ -1,0 +1,7 @@
+# dependencies
+/node_modules/
+
+# scraping script
+package-lock.json
+package.json
+index.js
